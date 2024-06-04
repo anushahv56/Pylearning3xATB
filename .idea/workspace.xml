@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adddfff4-7ef3-46b6-8840-0fdfcc152d7f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EX_03062024/Lab001.py" beforeDir="false" afterPath="$PROJECT_DIR$/EX_03062024/Lab001.py" afterDir="false" />
+    <list default="true" id="adddfff4-7ef3-46b6-8840-0fdfcc152d7f" name="Changes" comment="adding lab001">
+      <change afterPath="$PROJECT_DIR$/EX_03062024/Lab002.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +22,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "anushahv56"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/anushahv56/Pylearning3xATB.git",
@@ -68,12 +72,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717524023007</updated>
-      <workItem from="1717524024527" duration="702000" />
+      <workItem from="1717524024527" duration="1015000" />
     </task>
+    <task id="LOCAL-00001" summary="adding lab001">
+      <option name="closed" value="true" />
+      <created>1717524901655</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717524901655</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding lab001" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding lab001" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Pylearning3xATB$Lab001.coverage" NAME="Lab001 Coverage Results" MODIFIED="1717524489340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EX_03062024" />
