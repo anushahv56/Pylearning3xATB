@@ -4,8 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adddfff4-7ef3-46b6-8840-0fdfcc152d7f" name="Changes" comment="adding lab001">
-      <change afterPath="$PROJECT_DIR$/EX_03062024/Lab002.py" afterDir="false" />
+    <list default="true" id="adddfff4-7ef3-46b6-8840-0fdfcc152d7f" name="Changes" comment="adding lab002 file">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_05062024/Lab003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_05062024/Lab004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_05062024/Lab005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_05062024/Lab006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_05062024/Lab007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_05062024/Lab008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_05062024/Lab009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_05062024/Lab010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_05062024/Lab011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_05062024/Lab012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_05062024/Lab013.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Pylearning3xATB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Pylearning3xATB.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,23 +36,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "anushahv56"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;anushahv56&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/anushahv56/Pylearning3xATB.git",
-    "accountId": "1468d670-e369-4814-9c34-5c99764c2f07"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/anushahv56/Pylearning3xATB.git&quot;,
+    &quot;accountId&quot;: &quot;1468d670-e369-4814-9c34-5c99764c2f07&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2hQQroKnQnQSJ3JE8DqToy8SG0V" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,21 +62,34 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Lab001.executor": "Run",
+    "Python.Lab002.executor": "Run",
+    "Python.Lab003.executor": "Run",
+    "Python.Lab004.executor": "Run",
+    "Python.Lab005.executor": "Run",
+    "Python.Lab006.executor": "Run",
+    "Python.Lab007.executor": "Run",
+    "Python.Lab008.executor": "Run",
+    "Python.Lab009.executor": "Run",
+    "Python.Lab011.executor": "Run",
+    "Python.Lab013.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Lenovo/PycharmProjects/Pylearning3xATB",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PY-241.15989.155" />
-        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
+        <option value="bundled-python-sdk-48aec45f0201-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17011.127" />
       </set>
     </attachedChunks>
   </component>
@@ -72,7 +101,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717524023007</updated>
-      <workItem from="1717524024527" duration="1015000" />
+      <workItem from="1717524024527" duration="1680000" />
+      <workItem from="1717672547052" duration="845000" />
     </task>
     <task id="LOCAL-00001" summary="adding lab001">
       <option name="closed" value="true" />
@@ -82,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717524901655</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adding lab002 file">
+      <option name="closed" value="true" />
+      <created>1717525171101</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717525171101</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,9 +128,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding lab001" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding lab001" />
+    <MESSAGE value="adding lab002 file" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding lab002 file" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Pylearning3xATB$Lab001.coverage" NAME="Lab001 Coverage Results" MODIFIED="1717524489340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EX_03062024" />
+    <SUITE FILE_PATH="coverage/Pylearning3xATB$Lab002.coverage" NAME="Lab002 Coverage Results" MODIFIED="1717525144704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EX_03062024" />
   </component>
 </project>
