@@ -4,16 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adddfff4-7ef3-46b6-8840-0fdfcc152d7f" name="Changes" comment="adding EX_05062024">
-      <change afterPath="$PROJECT_DIR$/EX_07062024/Lab014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_07062024/Lab017.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_07062024/Lab018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_07062024/Lab019.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_07062024/Lab020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_07062024/Lab021.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_07062024/Lab022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_07062024/Lab023.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_07062024/Lab024.py" afterDir="false" />
+    <list default="true" id="adddfff4-7ef3-46b6-8840-0fdfcc152d7f" name="Changes" comment="lab0015">
+      <change afterPath="$PROJECT_DIR$/EX_10062024/Lab025.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_10062024/Lab027.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_10062024/Lab028.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_10062024/Lab029.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_10062024/Lab030.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_10062024/Lab031.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_10062024/Lab032.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_10062024/Lab033.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_10062024/Lab034.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_10062024/Lab035.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_10062024/lab026.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,6 +82,15 @@
     "Python.Lab021.executor": "Run",
     "Python.Lab022.executor": "Run",
     "Python.Lab023.executor": "Run",
+    "Python.Lab028.executor": "Run",
+    "Python.Lab029.executor": "Run",
+    "Python.Lab030.executor": "Run",
+    "Python.Lab031.executor": "Run",
+    "Python.Lab032.executor": "Run",
+    "Python.Lab033.executor": "Run",
+    "Python.Lab034.executor": "Run",
+    "Python.Lab035.executor": "Run",
+    "Python.lab026.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -136,7 +147,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717866307349</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="adding EX_07062024">
+      <option name="closed" value="true" />
+      <created>1717935337252</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717935337252</updated>
+    </task>
+    <task id="LOCAL-00005" summary="lab0015">
+      <option name="closed" value="true" />
+      <created>1717987568878</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717987568878</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,7 +173,9 @@
     <MESSAGE value="adding lab001" />
     <MESSAGE value="adding lab002 file" />
     <MESSAGE value="adding EX_05062024" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding EX_05062024" />
+    <MESSAGE value="adding EX_07062024" />
+    <MESSAGE value="lab0015" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab0015" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Pylearning3xATB$Lab001.coverage" NAME="Lab001 Coverage Results" MODIFIED="1717524489340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EX_03062024" />
