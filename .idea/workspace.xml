@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adddfff4-7ef3-46b6-8840-0fdfcc152d7f" name="Changes" comment="Adding 10062024">
+    <list default="true" id="adddfff4-7ef3-46b6-8840-0fdfcc152d7f" name="Changes" comment="RENAME PY">
+      <change afterPath="$PROJECT_DIR$/EX_10062024/Task001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_10062024/Task002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EX_10062024/Lab036.py" beforeDir="false" afterPath="$PROJECT_DIR$/EX_10062024/Lab036.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,6 +82,8 @@
     "Python.Lab033.executor": "Run",
     "Python.Lab034.executor": "Run",
     "Python.Lab035.executor": "Run",
+    "Python.Task001.executor": "Run",
+    "Python.Task002.executor": "Run",
     "Python.lab026.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -160,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718114174822</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="RENAME PY">
+      <option name="closed" value="true" />
+      <created>1718114646492</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718114646492</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,7 +186,8 @@
     <MESSAGE value="adding EX_07062024" />
     <MESSAGE value="lab0015" />
     <MESSAGE value="Adding 10062024" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding 10062024" />
+    <MESSAGE value="RENAME PY" />
+    <option name="LAST_COMMIT_MESSAGE" value="RENAME PY" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Pylearning3xATB$Lab001.coverage" NAME="Lab001 Coverage Results" MODIFIED="1717524489340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EX_03062024" />
