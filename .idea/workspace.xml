@@ -4,11 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adddfff4-7ef3-46b6-8840-0fdfcc152d7f" name="Changes" comment="RENAME PY">
-      <change afterPath="$PROJECT_DIR$/EX_10062024/Task001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_10062024/Task002.py" afterDir="false" />
+    <list default="true" id="adddfff4-7ef3-46b6-8840-0fdfcc152d7f" name="Changes" comment="Task001 and Task002">
+      <change afterPath="$PROJECT_DIR$/EX_12062024/Lab038.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_12062024/Lab039.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_12062024/Lab040.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_12062024/Lab041.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_12062024/Lab042.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_12062024/Lab043.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_12062024/Lab044.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_12062024/Lab045.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_12062024/Lab046.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_12062024/Task02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_12062024/Task2a.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EX_10062024/Lab036.py" beforeDir="false" afterPath="$PROJECT_DIR$/EX_10062024/Lab036.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EX_10062024/Lab037.py" beforeDir="false" afterPath="$PROJECT_DIR$/EX_10062024/Lab037.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EX_10062024/Task001.py" beforeDir="false" afterPath="$PROJECT_DIR$/EX_10062024/Task001.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,8 +92,15 @@
     "Python.Lab033.executor": "Run",
     "Python.Lab034.executor": "Run",
     "Python.Lab035.executor": "Run",
+    "Python.Lab039.executor": "Run",
+    "Python.Lab040.executor": "Run",
+    "Python.Lab043.executor": "Run",
+    "Python.Lab044.executor": "Run",
+    "Python.Lab045.executor": "Run",
+    "Python.Lab046.executor": "Run",
     "Python.Task001.executor": "Run",
     "Python.Task002.executor": "Run",
+    "Python.Task02.executor": "Run",
     "Python.lab026.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -173,7 +190,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718114646492</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Task001 and Task002">
+      <option name="closed" value="true" />
+      <created>1718125704425</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1718125704425</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,7 +212,8 @@
     <MESSAGE value="lab0015" />
     <MESSAGE value="Adding 10062024" />
     <MESSAGE value="RENAME PY" />
-    <option name="LAST_COMMIT_MESSAGE" value="RENAME PY" />
+    <MESSAGE value="Task001 and Task002" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task001 and Task002" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Pylearning3xATB$Lab001.coverage" NAME="Lab001 Coverage Results" MODIFIED="1717524489340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EX_03062024" />
