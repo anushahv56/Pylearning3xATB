@@ -4,20 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adddfff4-7ef3-46b6-8840-0fdfcc152d7f" name="Changes" comment="Adding EX_14062024">
-      <change afterPath="$PROJECT_DIR$/EX_19062024/Lab071.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_19062024/Lab072.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_19062024/Lab073.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_19062024/Lab074.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_19062024/Lab075.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_19062024/Lab076.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_19062024/Lab077.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_19062024/Lab078.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_19062024/Lab079.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_19062024/Lab080--list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_19062024/Lab081.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_19062024/Lab082.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_19062024/Lab083.py" afterDir="false" />
+    <list default="true" id="adddfff4-7ef3-46b6-8840-0fdfcc152d7f" name="Changes" comment="Adding EX_19062024">
+      <change afterPath="$PROJECT_DIR$/EX_21062024/LAb093.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_21062024/Lab085.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_21062024/Lab086.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_21062024/Lab087.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_21062024/Lab088.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_21062024/Lab089.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_21062024/Lab090.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_21062024/Lab091.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_21062024/Lab092.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_21062024/Lab094.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_21062024/Lab095.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_21062024/Lab096.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_21062024/Lab097.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_21062024/Lab098.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_21062024/Lab099.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_21062024/Lab100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_21062024/Lab101.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_21062024/Lab102.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +68,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.LAb093.executor": "Run",
     "Python.Lab001.executor": "Run",
     "Python.Lab002.executor": "Run",
     "Python.Lab003.executor": "Run",
@@ -128,6 +134,21 @@
     "Python.Lab081.executor": "Run",
     "Python.Lab082.executor": "Run",
     "Python.Lab083.executor": "Run",
+    "Python.Lab086.executor": "Run",
+    "Python.Lab087.executor": "Run",
+    "Python.Lab088.executor": "Run",
+    "Python.Lab089.executor": "Run",
+    "Python.Lab090.executor": "Run",
+    "Python.Lab091.executor": "Run",
+    "Python.Lab092.executor": "Run",
+    "Python.Lab094.executor": "Run",
+    "Python.Lab095.executor": "Run",
+    "Python.Lab096.executor": "Run",
+    "Python.Lab097.executor": "Run",
+    "Python.Lab098.executor": "Run",
+    "Python.Lab100.executor": "Run",
+    "Python.Lab101.executor": "Run",
+    "Python.Lab102.executor": "Run",
     "Python.Task001.executor": "Run",
     "Python.Task002.executor": "Run",
     "Python.Task02.executor": "Run",
@@ -244,7 +265,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718799181433</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Adding EX_19062024">
+      <option name="closed" value="true" />
+      <created>1718883338022</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1718883338022</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,7 +290,8 @@
     <MESSAGE value="Task001 and Task002" />
     <MESSAGE value="Adding EX_12062024" />
     <MESSAGE value="Adding EX_14062024" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding EX_14062024" />
+    <MESSAGE value="Adding EX_19062024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding EX_19062024" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Pylearning3xATB$Lab001.coverage" NAME="Lab001 Coverage Results" MODIFIED="1717524489340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EX_03062024" />

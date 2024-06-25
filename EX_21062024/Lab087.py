@@ -1,0 +1,7 @@
+hero1=("A","B","c","D")
+hero2=("E","F","G","H")
+new_hero=(("A","B","c","D"),("E","F","G","H"))
+print(new_hero[0])
+print(new_hero[1])
+print(new_hero[0][1])
+print(new_hero[1][1])
