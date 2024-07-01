@@ -4,23 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adddfff4-7ef3-46b6-8840-0fdfcc152d7f" name="Changes" comment="Adding EX_21062024">
-      <change afterPath="$PROJECT_DIR$/EX_24062024/Lab103.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_24062024/Lab104.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_24062024/Lab105.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_24062024/Lab106.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_24062024/Lab107.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_24062024/Lab108.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_24062024/Lab109.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_24062024/Lab110.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_26062024/Lab112.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_26062024/Lab113.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_26062024/Lab114.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_26062024/Lab115.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_26062024/Lab116.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_26062024/Lab117.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_26062024/Lab119.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_26062024/Lab121.py" afterDir="false" />
+    <list default="true" id="adddfff4-7ef3-46b6-8840-0fdfcc152d7f" name="Changes" comment="Adding EX_26062024">
+      <change afterPath="$PROJECT_DIR$/EX_28062024/LAb131.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_28062024/Lab123.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_28062024/Lab124.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_28062024/Lab125.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_28062024/Lab126.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_28062024/Lab127.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_28062024/Lab128.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_28062024/Lab129.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_28062024/Lab130.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_28062024/Lab132.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +61,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.LAb093.executor": "Run",
+    "Python.LAb131.executor": "Run",
     "Python.Lab001.executor": "Run",
     "Python.Lab002.executor": "Run",
     "Python.Lab003.executor": "Run",
@@ -161,6 +156,14 @@
     "Python.Lab117.executor": "Run",
     "Python.Lab119.executor": "Run",
     "Python.Lab121.executor": "Run",
+    "Python.Lab123.executor": "Run",
+    "Python.Lab124.executor": "Run",
+    "Python.Lab125.executor": "Run",
+    "Python.Lab126.executor": "Run",
+    "Python.Lab127.executor": "Run",
+    "Python.Lab129.executor": "Run",
+    "Python.Lab130.executor": "Run",
+    "Python.Lab132.executor": "Run",
     "Python.Task001.executor": "Run",
     "Python.Task002.executor": "Run",
     "Python.Task02.executor": "Run",
@@ -322,7 +325,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719292801479</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Adding EX_26062024">
+      <option name="closed" value="true" />
+      <created>1719510326583</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1719510326583</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -341,7 +352,8 @@
     <MESSAGE value="Adding EX_14062024" />
     <MESSAGE value="Adding EX_19062024" />
     <MESSAGE value="Adding EX_21062024" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding EX_21062024" />
+    <MESSAGE value="Adding EX_26062024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding EX_26062024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
