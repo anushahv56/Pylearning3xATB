@@ -4,17 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adddfff4-7ef3-46b6-8840-0fdfcc152d7f" name="Changes" comment="Adding EX_26062024">
-      <change afterPath="$PROJECT_DIR$/EX_28062024/LAb131.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_28062024/Lab123.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_28062024/Lab124.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_28062024/Lab125.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_28062024/Lab126.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_28062024/Lab127.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_28062024/Lab128.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_28062024/Lab129.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_28062024/Lab130.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX_28062024/Lab132.py" afterDir="false" />
+    <list default="true" id="adddfff4-7ef3-46b6-8840-0fdfcc152d7f" name="Changes" comment="Adding EX_28062024">
+      <change afterPath="$PROJECT_DIR$/EX_01072024/Lab134.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_01072024/Lab135.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_01072024/Lab136.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_01072024/Lab137.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_01072024/Lab138.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_01072024/Lab139.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_01072024/Lab140.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_01072024/Lab141.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_01072024/Lab142.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_01072024/Lab143.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_01072024/Lab144.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_01072024/Lab145.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_01072024/Lab146.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_01072024/Lab147.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_01072024/Lab148.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_01072024/Lab149.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -164,6 +170,20 @@
     "Python.Lab129.executor": "Run",
     "Python.Lab130.executor": "Run",
     "Python.Lab132.executor": "Run",
+    "Python.Lab134.executor": "Run",
+    "Python.Lab135.executor": "Run",
+    "Python.Lab137.executor": "Run",
+    "Python.Lab138.executor": "Run",
+    "Python.Lab139.executor": "Run",
+    "Python.Lab141.executor": "Run",
+    "Python.Lab142.executor": "Run",
+    "Python.Lab143.executor": "Run",
+    "Python.Lab144.executor": "Run",
+    "Python.Lab145.executor": "Run",
+    "Python.Lab146.executor": "Run",
+    "Python.Lab147.executor": "Run",
+    "Python.Lab148.executor": "Run",
+    "Python.Lab149.executor": "Run",
     "Python.Task001.executor": "Run",
     "Python.Task002.executor": "Run",
     "Python.Task02.executor": "Run",
@@ -172,7 +192,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Lenovo/PycharmProjects/Pylearning3xATB",
+    "last_opened_file_path": "C:/Users/Lenovo/PycharmProjects/Practicepython3x",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -333,7 +353,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719510326583</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Adding EX_28062024">
+      <option name="closed" value="true" />
+      <created>1719832012836</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1719832012836</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -353,7 +381,8 @@
     <MESSAGE value="Adding EX_19062024" />
     <MESSAGE value="Adding EX_21062024" />
     <MESSAGE value="Adding EX_26062024" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding EX_26062024" />
+    <MESSAGE value="Adding EX_28062024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding EX_28062024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -377,6 +406,11 @@
           <url>file://$PROJECT_DIR$/EX_24062024/Lab110.py</url>
           <line>5</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EX_01072024/Lab143.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
